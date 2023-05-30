@@ -126,6 +126,7 @@ button {
 
 .greeting {
     text-align: center;
+    font-size: 30px;
 }
 
 @media (max-width: 600px) {
