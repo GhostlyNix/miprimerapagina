@@ -124,6 +124,10 @@ button {
     margin-right: 60px;
 }
 
+.greetings {
+    text-align: center;
+}
+
 @media (max-width: 600px) {
     .column {flex: 100%;
     }
