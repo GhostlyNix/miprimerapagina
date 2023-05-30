@@ -124,9 +124,9 @@ button {
     margin-right: 60px;
 }
 
-.greeting {
-    text-align: center;
-    font-size: 30px;
+.greetings {
+    align-self: center;
+    font-size: 50px;
 }
 
 @media (max-width: 600px) {
