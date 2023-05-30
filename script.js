@@ -6,7 +6,7 @@ if (form) {
 form.addEventListener('submit', function(event) {
     event.preventDefault();
     validateForm();
-  });
+});
 }
 
 function validateEmail(email) {
@@ -21,7 +21,7 @@ function validateForm() {
     if (!validateEmail(email)) {
         alert('Por favor ingrese un correo eletrónico válido');}
     else {
-      alert('Correo electrónico enviado correctamente');}
+      alert('Correo electrónico enviado correctamente :D');}
   }
 
 document.querySelector("button.button-menu-toggle")
